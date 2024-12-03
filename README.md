@@ -2,7 +2,7 @@
 
 # Gauge
 
-Software project quotation and planning sheet.
+Lightweight agile software project quotation and planning sheet.
 
 ## Version
 
