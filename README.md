@@ -2,7 +2,7 @@
 
 # Gauge
 
-Lightweight agile software project quotation and planning sheet.
+Agile project backlog sheet.
 
 ## Version
 
