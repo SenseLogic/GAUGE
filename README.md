@@ -35,7 +35,7 @@ This method simplifies the estimation process by focusing on :
 
 - Estimating the **absolute minimum time** required to complete a task.
 - Multiplying it by an uncertainty factor to estimate the **medium and maximum times**.
-- Using the maximum time to estimate the **financial costs**, facilitating project quotations for clients.
+- Using the maximum time to estimate its **financial cost**, facilitating project quotations for clients.
 
 This approach allows teams to:
 - Provide more accurate and straightforward estimates.
