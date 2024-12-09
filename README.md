@@ -2,7 +2,7 @@
 
 # Gauge
 
-Agile project backlog management spreadsheet.
+Agile project backlog spreadsheet.
 
 ## Description
 
@@ -19,25 +19,25 @@ It targets small teams and individuals seeking a practical and accessible way to
 ## Principles
 
 A project can be divided into tasks and subtasks with the following properties :
-- Application name;
-- Group name;
-- Priority level;
-- Due date;
-- Effort;
-- Developer name;
-- Phase number;
-- Sprint number;
-- Status code.
+- Application name.
+- Feature group name.
+- Priority.
+- Due date.
+- Estimated effort.
+- Assigned developer.
+- Release phase.
+- Development sprint.
+- Status.
 
-Unlike traditional Scrum, where story points are used for cost estimation, **Gauge** employs a more straightforward approach based on minimum man-days.
+Unlike traditional Scrum, which relies on story points for cost estimation, **Gauge** adopts a simpler and more direct approach based on **minimum man-days**.
 
-This method simplifies the estimation process by focusing on :
+This method streamlines the estimation process by:
 
-- Estimating the **absolute minimum time** required to complete a task.
-- Multiplying it by an uncertainty factor to estimate the **medium and maximum times**.
-- Using the maximum time to estimate its **financial cost**, facilitating project quotations for clients.
+- Evaluating the **absolute minimum time** required to complete each task, considering the least amount of effort below which the task cannot be executed.
+- Applying an **uncertainty factor** (e.g., 2 or higher) to estimate the **maximum time** needed.
+- Using these estimates to calculate **financial costs**, facilitating project quotations for clients.
 
-This approach allows teams to:
+This approach allows teams to :
 - Provide more accurate and straightforward estimates.
 - Streamline the budgeting process for client-facing projects.
 
